@@ -1,0 +1,18 @@
+npm init
+npm install 
+npm install sequelize@5.15.1 sequelize-cli@5.4.0
+npm install mysql2
+npm install -D @babel/core @babel/node @babel/preset-env nodemon
+npm install express apollo-server-express
+npm install apollo-server-express express 
+
+
+
+
+
+
+CREATE TABLE IF NOT EXISTS nombre_tabla 
+(definición de la tabla,
+definición de columnas,
+tipos de columnas
+);
